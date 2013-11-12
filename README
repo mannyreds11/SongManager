@@ -1,0 +1,6 @@
+Song Manager
+Author: Manuel Rojas
+
+Instructions:
+1. Compile: $ g++ main.cpp
+2. Run:     $ ./a.out
